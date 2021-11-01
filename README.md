@@ -1,4 +1,11 @@
-## Olá eu sou a Arnon Nascimento, atualmente estou focado no Back-End, mas meu objetivo é me tornar um Full Stack Developer!🐱‍👤
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+## Oláá, eu sou a Arnon Nascimento.🐱‍👤
+- 𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 |.𝙽𝙴𝚃 |𝙲# |𝚂𝚀𝙻 |𝙹𝚂 |𝙷𝚃𝙼𝙻&𝙲𝚂𝚂
+- 𝙴𝚗𝚐𝚎𝚗𝚑𝚊𝚛𝚒𝚊 𝚍𝚎 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 - 𝙵. 𝙿𝚒𝚝𝚊𝚐𝚘𝚛𝚊𝚜
+
+##
+
 <div align="center">
   <a href="https://https://github.com/4rNoNy/">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=4rNoNy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
