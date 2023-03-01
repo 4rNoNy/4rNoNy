@@ -8,8 +8,7 @@
 
 <div align="center">
   <a href="https://https://github.com/4rNoNy/">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=4rNoNy&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rNoNy&layout=compact&langs_count=7&theme=tokyonight"/>
+
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="nony-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
