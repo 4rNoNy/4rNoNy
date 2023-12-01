@@ -1,10 +1,17 @@
-![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
+
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif)
 
 ## Oláá, eu sou Arnon Nascimento.🐱‍👤
 - 𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | .𝙽𝙴𝚃 | 𝙲# | 𝚂𝚀𝙻 | 𝑇𝑆/𝙹𝚂 | 𝙵𝚕𝚞𝚝𝚝𝚎𝚛 | 𝚁𝚎𝚊𝚌𝚝 | 𝙰𝚗𝚐𝚞𝚕𝚊𝚛 |
 - 𝙴𝚗𝚐𝚎𝚗𝚑𝚊𝚛𝚒𝚊 𝚍𝚎 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 - 𝙵. 𝙿𝚒𝚝𝚊𝚐𝚘𝚛𝚊𝚜
+<div align="center">  
+  
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=4rnony&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rnony&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  
+</div>
 
-##
 
 <div align="center">
   <a href="https://https://github.com/4rNoNy/">
@@ -34,6 +41,6 @@
    <a href = "mailto:4rnony@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
    <a href="https://www.linkedin.com/in/4rnony/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
  
 </div>
