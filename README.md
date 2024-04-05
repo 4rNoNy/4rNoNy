@@ -4,7 +4,7 @@
 - 𝙴𝚗𝚐𝚎𝚗𝚑𝚊𝚛𝚒𝚊 𝚍𝚎 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 - 𝙵. 𝙿𝚒𝚝𝚊𝚐𝚘𝚛𝚊𝚜
 <div align="center">  
 <a href="" target="_blank"> 
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=4rnony&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=4rnony&title_color=80F7D4&text_color=fff&icon_color=078fa7&border_color=fff0&bg_color=0d1117&show_icons=true" /> 
 </a>
 <a href="" target="_blank">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rnony&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
