@@ -14,11 +14,11 @@
 
 
 <div align="center">
-  <a href="https://https://github.com/4rNoNy/">
+  <a style="text-decoration: none" href="https://https://github.com/4rNoNy/">
 
 </div>
 <div style="display: inline_block"><br>
-<a style="text-decoration: none" href="https://github.com/4rNoNy?tab=repositories&q=&type=&language=typescript&sort=" target="_blank">
+<a href="https://github.com/4rNoNy?tab=repositories&q=&type=&language=typescript&sort=" target="_blank">
   <img align="center" alt="nony-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
 </a> 
 <a href="https://github.com/4rNoNy?tab=repositories&q=&type=&language=javascript&sort=" target="_blank">
