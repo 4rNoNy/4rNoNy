@@ -7,7 +7,7 @@
   <img width="58%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4rnony&layout=compact&theme=radical">
 </a>
 <a href="" target="_blank">  
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rnony&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rnony&layout=compact&langs_count=7&theme=radical" />
 </a>
   
 </div>
