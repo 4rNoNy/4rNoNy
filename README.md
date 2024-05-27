@@ -9,7 +9,7 @@
 <a href="" target="_blank">  
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4rnony&layout=compact&langs_count=7&theme=radical" />
 </a>
-  
+
 </div>
 
 <div align="center">
