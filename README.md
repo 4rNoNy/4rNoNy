@@ -1,7 +1,7 @@
 
 ## <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Olá, eu sou Arnon Nascimento.
 - 𝙵𝚞𝚕𝚕 𝚂𝚝𝚊𝚌𝚔 𝙳𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛 | .𝙽𝙴𝚃 | 𝙲# | 𝚂𝚀𝙻 | 𝑇𝑆/𝙹𝚂 | 𝙵𝚕𝚞𝚝𝚝𝚎𝚛 | 𝚁𝚎𝚊𝚌𝚝 | 𝙰𝚗𝚐𝚞𝚕𝚊𝚛 | 𝙽𝚎𝚡𝚝.𝚓𝚜
-- 𝙴𝚗𝚐𝚎𝚗𝚑𝚊𝚛𝚒𝚊 𝚍𝚎 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 - 𝙵. 𝙿𝚒𝚝𝚊𝚐𝚘𝚛𝚊𝚜
+- 𝙴𝚗𝚐𝚎𝚗𝚑𝚊𝚛𝚒𝚊 𝚍𝚎 𝚂𝚘𝚏𝚝𝚠𝚊𝚛𝚎 - 𝙵. 𝙰𝚗𝚑𝚊𝚗𝚐𝚞𝚎𝚛𝚊
 <div align="center">  
 <a href="" target="_blank"> 
   <img width="58%" height="195px" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=4rnony&layout=compact&theme=radical">
